@@ -1,0 +1,169 @@
+{
+    "profile": {
+        "fullname": {
+            "en": "Georgios Visvikis",
+            "el": "Γεώργιος Βισβίκης"
+        },
+        "headline": {
+            "en": "Economist | Enterpreneur | Travel Agent",
+            "el": "Οικονομολόγος | Επιχειρηματίας | Ταξιδιωτικός Πράκτορας"
+        },
+        "email": "giorgosvisvikis@gmail.com"
+    },
+
+    "competencies": {
+        "languages": [{
+            "name": {"en":"Greek", "el": "Ελληνικά"},
+            "level": {"en": "Mother tongue", "el":"Μητρική γλώσσα"}}, {
+            "name": {"en":"English", "el": "Αγγλικά"},
+            "level": {"en": "B2 ECCE", "el":"B2 ECCE"}}, {
+            "name": {"en":"Russian", "el": "Ρωσσικά"},
+            "level": {"en": "A1 M.V. Lomonosov Moscow State University", "el":"A1 M.V. Lomonosov Moscow State University"}}
+            ],
+        "digitalSkills": [{
+            "name": {"en": "Microsoft office suite", "el": "Σουίτα Microsoft Office"}
+        },{"name": {"en": "Management of electronic invoicing and transmission of documents to myDATA (Emblem)", "el":"Διαχείριση ηλεκτρονικής τιμολόγησης & διαβίβασης παραστατικών myDATA (Emblem)"}}],
+       "softSkills": [
+  {
+    "name": {
+      "en": "Communication skills",
+      "el": "Επικοινωνιακές δεξιότητες"
+    },
+    "description": {
+      "en": "Ability to convey complex ideas clearly and persuasively to diverse audiences. Strong active listening skills that foster mutual understanding and constructive feedback.",
+      "el": "Ικανότητα σαφούς και πειστικής μετάδοσης σύνθετων ιδεών σε διαφορετικά ακροατήρια. Ανεπτυγμένη ενεργητική ακρόαση που ενισχύει την αμοιβαία κατανόηση και την εποικοδομητική ανατροφοδότηση."
+    }
+  },
+  {
+    "name": {
+      "en": "Decision making",
+      "el": "Αποφασιστικότητα"
+    },
+    "description": {
+      "en": "Capacity to evaluate available data and make timely, well-informed choices under pressure. Willingness to take calculated risks and assume responsibility for the outcomes.",
+      "el": "Ικανότητα αξιολόγησης των διαθέσιμων δεδομένων για τη λήψη έγκαιρων και τεκμηριωμένων αποφάσεων υπό πίεση. Προθυμία ανάληψης υπολογισμένων ρίσκων και ευθύνης για τα αποτελέσματα."
+    }
+  },
+  {
+    "name": {
+      "en": "Teamwork",
+      "el": "Ομαδικότητα"
+    },
+    "description": {
+      "en": "Effective collaboration within cross-functional teams to achieve shared goals. Ability to resolve conflicts constructively and support colleagues in a positive work environment.",
+      "el": "Αποτελεσματική συνεργασία σε διεπιστημονικές ομάδες για την επίτευξη κοινών στόχων. Ικανότητα εποικοδομητικής επίλυσης συγκρούσεων και υποστήριξης των συναδέλφων σε ένα θετικό εργασιακό περιβάλλον."
+    }
+  },
+  {
+    "name": {
+      "en": "Agency",
+      "el": "Ανάληψη πρωτοβουλιών"
+    },
+    "description": {
+      "en": "Proactive mindset with a strong drive to take ownership of tasks and solve problems independently. Ability to identify opportunities for improvement without waiting for explicit instructions.",
+      "el": "Προδραστική νοοτροπία με έντονη διάθεση ανάληψης ευθύνης και αυτόνομης επίλυσης προβλημάτων. Ικανότητα εντοπισμού ευκαιριών βελτίωσης χωρίς την αναμονή ρητών οδηγιών."
+    }
+  },
+  {
+    "name": {
+      "en": "Adaptability",
+      "el": "Προσαρμοστικότητα"
+    },
+    "description": {
+      "en": "Flexibility in adjusting to shifting priorities, new technologies, and evolving project requirements. Ability to maintain high performance and composure in fast-paced environments.",
+      "el": "Ευελιξία στην προσαρμογή σε μεταβαλλόμενες προτεραιότητες, νέες τεχνολογίες και εξελισσόμενες απαιτήσεις έργων. Ικανότητα διατήρησης υψηλής απόδοσης και ψυχραιμίας σε δυναμικά περιβάλλοντα."
+    }
+  },
+  {
+    "name": {
+      "en": "Problem solving",
+      "el": "Επίλυση προβλημάτων"
+    },
+    "description": {
+      "en": "Analytical approach to breaking down complex challenges into manageable, actionable steps. Focus on identifying root causes and implementing practical, long-term solutions.",
+      "el": "Αναλυτική προσέγγιση στη διάσπαση σύνθετων προκλήσεων σε διαχειρίσιμα και εφαρμόσιμα βήματα. Εστίαση στον εντοπισμό των βαθύτερων αιτιών και την εφαρμογή πρακτικών, μακροπρόθεσμων λύσεων."
+    }
+  }
+]
+    },
+
+    "items": [
+        {
+            "id": "edu1",
+            "type": "education",
+            "title": {"en": "BSc Economics", "el": "BSc Οικονομικές επιστήμες"},
+            "institution": {"en": "University of Thessaly", "el": "University of Thessaly"},
+            "startDate": "2015-10",
+            "endDate": "2019-06",
+            "description": {"en": "Specialization in Business economics", "el": "Ειδίκευση στην Οικονομική των Επιχειρήσεων"}
+        },
+        {
+            "id": "work1",
+            "type": "work",
+            "title": {"en": "Assistant Manager", "el": "Assistant Manager"},
+            "company": {"en":"VIS Travel", "el": "VIS Travel"},
+            "domain": {"en":"Travel Agency", "el": "Ταξιδιωτικό Γραφείο"},
+            "description": {"en": "Responsible for cruises.", "el": "Assistant Manager. Υπεύθυνος κρουαζιερών."},
+            "startDate": "2020-9",
+            "endDate": "2024-3"
+        },
+        {
+            "id": "work2",
+            "type": "work",
+            "title": {"en": "Travel Agent", "el": "Ταξιδιωτικός Πράκτορας"},
+            "company": {"en":"GREFIS Travel", "el": "GREFIS Travel"},
+            "domain": {"en":"Travel Agency", "el": "Ταξιδιωτικό Γραφείο"},
+            "description": {"en": "Sales of organized air and coach tours Customer support. Stopped due to COVID-19", "el": "Πωλήσεις αεροπορικών και οδικών οργανομένων εκδρομών. Τηλεφωνική εξηπηρέτηση πελατών. Διεκόπη λόγω COVID-19"},
+            "startDate": "2020-1",
+            "endDate": "2020-3"
+        },
+    {
+            "id": "work3",
+            "type": "work",
+            "title": {"en": "Travel Agent Intern", "el": "Ταξιδιωτικός πράκτορας - Πρακτική άσκηση"},
+            "company": {"en":"Georgali Travel", "el": "Georgali Travel"},
+            "domain": {"en":"Travel Agency", "el": "Ταξιδιωτικό Γραφείο"},
+            "description": {"en": "Internship", "el": "Πρακτική Άσκηση"},
+            "startDate": "2018-9",
+            "endDate": "2018-11"
+        },
+    {
+            "id": "work4",
+            "type": "work",
+            "title": {"en": "Travel agent (Seasonal work)", "el": "Ταξιδιωτικός πράκτορας (Εποχική απασχόληση)"},
+            "company": {"en":"VIS Travel", "el": "VIS Travel"},
+            "domain": {"en":"Travel Agency", "el": "Ταξιδιωτικό Γραφείο"},
+            "description": {"en": "Ticketing, Customer Support, Banking transactions, Group leadership, Organization of excursions.", "el": "Πωλήσεις αεροπορικών και οδικών οργανομένων εκδρομών, Τηλεφωνική εξηπηρέτηση πελατών, Αρχηγίες γκρουπ, Οργάνωση εκδρομών"},
+            "startDate": "2016-6",
+            "endDate": "2019-9"
+    },
+        {
+            "id": "work5",
+            "type": "work",
+            "title": {"en": "Buisness owner", "el": "Ιδιοκτήτης Επιχείρησης"},
+            "company": {"en":"Algeri", "el":"Αλγέρι"},
+            "domain": {"en":"Restaurant with Live Music", "el": "Μουσικοφαγείο"},
+            "description": {
+            "en": "Led end-to-end business and financial operations, overseeing staff management, supplier negotiations, invoicing, and daily logistics. Optimized operational costs and boosted customer retention by curating successful live music events while maintaining high service quality standards.",
+            "el": "Ανέλαβα την ολοκληρωμένη επιχειρησιακή και οικονομική διαχείριση της επιχείρησης, συντονίζοντας το προσωπικό, τις προμήθειες, την τιμολόγηση και τις καθημερινές λειτουργίες. Επίτευξα τη βελτιστοποίηση του λειτουργικού κόστους και την ενίσχυση της πιστότητας των πελατών, διοργανώνοντας επιτυχημένες μουσικές εκδηλώσεις και διατηρώντας υψηλά πρότυπα εξυπηρέτησης."
+            },
+            "startDate": "2024-5",
+            "endDate": "2026-5"
+        },
+        {
+            "id": "sem1",
+            "type": "seminar",
+            "organizer": {"en":"Interreg Balkan - Mediterranean", "el":"Interreg Balkan - Mediterranean"},
+            "description": {"en": "Entrepreneurial learning through the exchange of experiences for sustainable hospitality in the Balkan-Mediterranean region", "el": "Επιχειρηματική μάθηση μέσω της ανταλλαγής εμπειριών για βιώσιμη φιλοξενία στη βαλκανική-μεσογειακή περιοχή."},
+            "startDate": "2018-5",
+            "endDate": "2018-5"
+    },{
+            "id": "sem2",
+            "type": "seminar",
+            "organizer": {"en":"TUV Hellas", "el":"TUV Hellas"},
+            "description": {"en": "Management and Finance Executive in the Tourism Sector", "el": "Στέλεχος διοίκησης και οικονομίας στον τουριστικό τομέα"},
+            "startDate": "2026-5",
+            "endDate": "2026-9"
+        }
+    ]
+}
